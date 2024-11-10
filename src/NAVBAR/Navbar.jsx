@@ -35,7 +35,7 @@ const Navbar = () => {
                     <div className="flex items-center justify-center gap-2">
 
                         <FaLessThan className='text-red-500 font-extrabold'/>
-                        <span className='text-2xl text-red-500 font-extrabold'>A. </span> 
+                        <span className='text-2xl text-red-500 font-extrabold'>A.</span> 
                         <span className='text-2xl  font-extrabold'>Shahed</span>
                         <FaGreaterThan className=' font-extrabold text-yellow-300' />
                                  
