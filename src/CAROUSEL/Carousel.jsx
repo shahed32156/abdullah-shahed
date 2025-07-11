@@ -44,6 +44,7 @@ const Carousel = () => {
          multiText={[
            "Frontend Developer",
            "Backend Developer",
+           "SQA Engineer",
            "Web Designer",
          ]}
          multiTextDelay={1500}
